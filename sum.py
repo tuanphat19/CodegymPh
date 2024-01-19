@@ -1,6 +1,6 @@
 #input A, B
 A = 5
-B = 7
+C = 7
 #Tính C
 C *= A
 #xuất C
